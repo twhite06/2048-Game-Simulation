@@ -1,11 +1,8 @@
 # 2048-Game-Simulation
-
-/*
- * Spring 2019, Tufts University
+* Spring 2019, Tufts University
  * Modified by: Tim White
  * Date: 03/09/2019
  * README for 2048 Game Simulation Project
- */
  
 Contributers: 
              Tim Gray
